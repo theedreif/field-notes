@@ -2,6 +2,13 @@
 
 ### Operational Readiness · Human Judgment · AI · Autonomous Systems · High-Consequence Communication
 
+
+> **ED REIF FIELD SYSTEM**  
+> [Operational Readiness](https://github.com/theedreif/operational-readiness) → [Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge) → [Decision Science](https://github.com/theedreif/decision-science) → [Field Notes](https://github.com/theedreif/field-notes)  
+> **BUILD → DECIDE → POSITION → TEST → UPDATE**
+
+---
+
 > # When the plan stops working, the mission does not stop with it.
 
 Field Notes is where doctrine meets reality.

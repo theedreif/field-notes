@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or reference this repository, please cite it as below."
+title: "Field Learning"
+type: software
+authors:
+  - family-names: "Reif"
+    given-names: "Ed"
+    alias: "theedreif"
+url: "https://github.com/theedreif/field-notes"
+repository-code: "https://github.com/theedreif/field-notes"
+abstract: "Field Learning — applied notes, evidence, AI skills, autonomous systems, and human-performance experiments that test doctrine against reality."
+keywords:
+  - operational-readiness
+  - decision-science
+  - instructional-design
+  - human-performance
+  - judgment-under-uncertainty
+  - autonomous-systems
+  - field-learning
+  - ai-skills

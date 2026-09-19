@@ -1,5 +1,10 @@
 # Field Notes
 
+**Field Learning** — applied notes, evidence, AI skills, autonomous systems, and human-performance experiments that test doctrine against reality.
+
+Ed Reif is an author, traveler, storyteller, and decision-science practitioner whose work explores what happens when uncertainty, risk, identity, and experience collide.
+
+
 ### Operational Readiness · Human Judgment · AI · Autonomous Systems · High-Consequence Communication
 
 

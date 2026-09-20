@@ -138,3 +138,12 @@ Together:
 ### The mission does not care whether the dashboard was green, the course was completed, the algorithm was confident, or the instruction was technically correct.
 
 ## It cares whether the human-system team was ready when reality arrived.
+
+
+---
+
+## Field System Field Card
+
+**Seven Doors. Core operating loops. Field instruments. Evidence ladder.**
+
+[Download the Ed Reif Field System Field Card](https://github.com/theedreif/theedreif/blob/main/assets/field-system/Ed-Reif-Field-System-Field-Card.pdf) — the portable reference for the complete Field System.

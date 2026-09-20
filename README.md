@@ -8,9 +8,10 @@ Ed Reif is an author, operational readiness architect, instructional systems des
 ### Operational Readiness · Human Judgment · AI · Autonomous Systems · High-Consequence Communication
 
 
-> **ED REIF FIELD SYSTEM**  
-> [Operational Readiness](https://github.com/theedreif/operational-readiness) → [Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge) → [Decision Science](https://github.com/theedreif/decision-science) → [Field Notes](https://github.com/theedreif/field-notes)  
-> **BUILD → DECIDE → POSITION → TEST → UPDATE**
+> **ED REIF FIELD SYSTEM — SEVEN DOORS**  
+> [BUILD · Operational Readiness](https://github.com/theedreif/operational-readiness) → [DECIDE · Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge) → [POSITION · Decision Science](https://github.com/theedreif/decision-science) → [COMMUNICATE · High-Consequence Communication](https://github.com/theedreif/high-consequence-communication) → [PROVE · Operational Readiness Lab](https://github.com/theedreif/operational-readiness-lab) → [UPDATE · Field Notes](https://github.com/theedreif/field-notes) → [DEPLOY · ORaaS](https://github.com/theedreif/oraas)  
+> **BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY**  
+> *One Body of Work. Seven Doors In.*
 
 ---
 
@@ -106,26 +107,21 @@ A curriculum concept applying field-learning architecture to autonomous undersea
 > **CLOSE THE GAP.**  
 > **COMPLETE THE MISSION.**
 
-## The Five-Repository System
+## The Seven-Door Field System
 
-### [Ed Reif](https://github.com/theedreif)
-The front door: identity, work, and operating philosophy.
+The repositories are not separate frameworks. Each is one functional door into the same operating architecture.
 
-### [Operational Readiness](https://github.com/theedreif/operational-readiness)
-**Build the capability.**
-
-### [Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge)
-**Make the decision.**
-
-### [Decision Science](https://github.com/theedreif/decision-science)
-**Design the bet.**
-
-### Field Notes
-**Test the ideas against reality.**
+1. **[BUILD · Operational Readiness](https://github.com/theedreif/operational-readiness)** — build capability that survives reality.
+2. **[DECIDE · Judgment at the Edge](https://github.com/theedreif/judgment-at-the-edge)** — make defensible decisions under uncertainty.
+3. **[POSITION · Decision Science](https://github.com/theedreif/decision-science)** — design exposure, asymmetry, and optionality.
+4. **[COMMUNICATE · High-Consequence Communication](https://github.com/theedreif/high-consequence-communication)** — make meaning survive the handoff.
+5. **[PROVE · Operational Readiness Lab](https://github.com/theedreif/operational-readiness-lab)** — stress-test doctrine against friction.
+6. **[UPDATE · Field Notes](https://github.com/theedreif/field-notes)** — capture what reality teaches.
+7. **[DEPLOY · ORaaS](https://github.com/theedreif/oraas)** — keep readiness operating continuously.
 
 Together:
 
-> # BUILD → DECIDE → POSITION → TEST → UPDATE
+> # BUILD → DECIDE → POSITION → COMMUNICATE → PROVE → UPDATE → DEPLOY
 
 ## About Ed Reif
 

@@ -154,3 +154,12 @@ Together:
 **Seven Doors. Core operating loops. Field instruments. Evidence ladder.**
 
 [Download the Ed Reif Field System Field Card](https://github.com/theedreif/theedreif/blob/main/assets/field-system/Ed-Reif-Field-System-Field-Card.pdf) — the portable reference for the complete Field System.
+
+
+---
+
+## Field System Governance
+
+**[Ed Reif Field System Manifest v1.0](https://github.com/theedreif/theedreif/blob/main/FIELD-SYSTEM.md)** is the canonical source for the Seven Doors, Golden Thread, Single Source of Truth, Evidence Ladder, naming conventions, and the rule for adding anything new.
+
+> **One canonical architecture. Many paths to it.**

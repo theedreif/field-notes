@@ -138,6 +138,17 @@ Together:
 
 ---
 
+## The Golden Thread
+
+**EXPERIENCE → DOCTRINE → JUDGMENT → TOOL → FRICTION → EVIDENCE → UPDATE**
+
+[View the canonical Golden Thread](https://github.com/theedreif/theedreif/blob/main/assets/field-system/The%20Golden%20Thread.jpeg) — the traceability spine of the Ed Reif Field System.
+
+> **Trace Everything. Duplicate Nothing.**
+
+
+---
+
 ## Field System Field Card
 
 **Seven Doors. Core operating loops. Field instruments. Evidence ladder.**
